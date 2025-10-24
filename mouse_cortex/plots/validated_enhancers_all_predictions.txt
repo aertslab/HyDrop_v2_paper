@@ -1,0 +1,123 @@
+enhancerID	target_ct	second_target_ct	specificity	strength	10x_allcells_allreads_predicted_ct	10x_allcells_36kreads_predicted_ct	10x_limitedcells_allreads_predicted_ct	10x_limitedcells_36kreads_predicted_ct	hydrop_allcells_allreads_predicted_ct	hydrop_allcells_36kreads_predicted_ct	hydrop_limitedcells_allreads_predicted_ct	hydrop_limitedcells_36kreads_predicted_ct
+AiE2051m	L6_IT		On-Target	strong	Lamp5	Oligo	Lamp5	Oligo	Astro	L2_3_IT	L5_ET	L6_IT
+AiE0465m	Sst		On-Target	strong	Lamp5	Oligo	Lamp5	Oligo	OPC	Sst	Lamp5	Lamp5
+AiE0492m	Sncg_Vip		On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Astro	Astro	Astro	Sncg_Vip
+AiE0462m	L5_ET		On-Target	strong	L5_ET	L2_3_IT	L5_ET	L2_3_IT	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2443m	L5_6_NP		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_6_NP	L5_ET	L5_6_NP	L5_ET	L5_ET
+AiE2120m	Astro		On-Target	strong	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE2098m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0090m	Sst		On-Target	strong	Lamp5	Oligo	Lamp5	Oligo	OPC	Lamp5	Lamp5	Lamp5
+AiE2467m	Sncg_Vip		On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sst	Sncg_Vip
+AiE0659m	Sncg_Vip		On-Target	weak	Lamp5	Sncg_Vip	Lamp5	Sncg_Vip	Sncg_Vip	Sncg_Vip	Lamp5	Lamp5
+AiE0321m	Sncg_Vip		On-Target	weak	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Lamp5	Sncg_Vip
+AiE1035m	L5_ET		On-Target	weak	L5_ET	L5_ET	Lamp5	Oligo	L5_ET	L5_ET	L5_ET	Lamp5
+AiE0816m	Pvalb		On-Target	strong	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb
+AiE0104m	Lamp5	Lamp5	On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	Astro	Lamp5	Lamp5	Lamp5
+AiE2121m	Astro		On-Target	strong	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE0947m	Pvalb		On-Target	weak	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb
+AiE2518m	L5_ET		On-Target	weak	Lamp5	L5_ET	Lamp5	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE1037m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0670m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0680m	L2_3_IT		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	L5_ET	Lamp5
+AiE0409m	Oligo		On-Target	strong	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo
+AiE0970m	L5_ET		On-Target	weak	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L5_ET	L2_3_IT
+AiE2123m	Astro		On-Target	strong	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE0390m	Astro		On-Target	strong	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE2103m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2604m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2104m	Lamp5	Lamp5	On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Pvalb
+AiE2428m	Sst		On-Target	strong	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE2540m	Sst	Sst	On-Target	strong	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE2439m	Lamp5	Lamp5	On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0025m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2134m	Endo_VLMC		On-Target	strong	Endo_VLMC	Endo_VLMC	Endo_VLMC	Endo_VLMC	Astro	Astro	Astro	Astro
+AiE2344m	Sst		On-Target	strong	Sst	Sst	Sst	Sst	Sst	L2_3_IT	L2_3_IT	L2_3_IT
+AiE2585m	Sncg_Vip		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0476m	Pvalb	L5_ET	On-Target	strong	Sncg_Vip	Sncg_Vip	Lamp5	Sncg_Vip	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0710m	Pvalb		On-Target	strong	Lamp5	Oligo	Lamp5	Oligo	OPC	L5_ET	Lamp5	Lamp5
+AiE0377m	Astro		On-Target	weak	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE2118m	Astro		On-Target	strong	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE0667m	L5_ET		On-Target	weak	L6_IT	L5_6_NP	L2_3_IT	L5_6_NP	L5_IT	L5_IT	L5_ET	L5_IT
+AiE0638m	Sst		On-Target	strong	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE2496m	Lamp5		On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2591m	Sncg_Vip	Sncg_Vip	On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Lamp5	Sncg_Vip
+AiE2407m	L2_3_IT		On-Target	weak	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT
+AiE2150m	Pvalb		On-Target	weak	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb
+AiE0696m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2036m	Pvalb		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0604m	L5_ET		On-Target	strong	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT
+AiE2401m	L5_ET		On-Target	weak	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT
+AiE0456m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2402m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0376m	Astro		On-Target	weak	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE1404m	Sst		On-Target	strong	Sst	Sst	OPC	Sst	Sst	Sst	Sst	Sst
+AiE0647m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	Lamp5	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0641m	Oligo	OPC	On-Target	strong	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo
+AiE0345m	Sst		On-Target	weak	Lamp5	L6_CT	Lamp5	Lamp5	L5_ET	L5_ET	L5_ET	Lamp5
+AiE0373m	Astro		On-Target	weak	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE2524m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2389m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2620m	L5_IT	L5_IT	On-Target	strong	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT
+AiE2192m	L6b		On-Target	weak	L6b	L6b	L6b	L6b	L6b	L6b	L6_IT	L6_IT
+AiE0652m	L6b		On-Target	weak	L6b	L6b	L6b	L6b	L6b	L6b	L6b	L6b
+AiE0460m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0772m	L6_IT		On-Target	strong	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L5_ET	L2_3_IT
+AiE0395m	Oligo		On-Target	weak	OPC	OPC	OPC	OPC	OPC	OPC	OPC	OPC
+AiE0385m	Astro		On-Target	weak	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE2420m	L6_IT		On-Target	strong	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L5_IT	L5_IT	L5_IT	L5_IT
+AiE0583m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0588m	Pvalb		On-Target	strong	Pvalb	Pvalb	Pvalb	Pvalb	Sst	Sst	Sst	Pvalb
+AiE0592m	L6b	L6_CT	On-Target	weak	L6_CT	L6_CT	L6_CT	L6b	L6_CT	L6_CT	L6b	L6_CT
+AiE0590m	Pvalb	Lamp5	On-Target	strong	Lamp5	Pvalb	L5_IT	Pvalb	L5_IT	L5_IT	L5_IT	L5_IT
+AiE0397m	Oligo		On-Target	strong	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo	Oligo
+AiE2613m	Astro		On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Astro	Sncg_Vip	Sncg_Vip	Sncg_Vip
+AiE0389m	Astro		On-Target	weak	Astro	Astro	Astro	Astro	Astro	Astro	Astro	Astro
+AiE0770m	L6_IT		On-Target	strong	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L5_IT
+AiE0459m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0968m	L5_6_NP		On-Target	weak	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP
+AiE0463m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2549m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2342m	Sst	L6_IT	On-Target	strong	Lamp5	Pvalb	Lamp5	Pvalb	Sst	Sst	Lamp5	Pvalb
+AiE0400m	Oligo		On-Target	strong	OPC	Oligo	OPC	Oligo	OPC	OPC	Oligo	Oligo
+AiE2590m	Sst		On-Target	strong	L2_3_IT	L2_3_IT	L6b	L2_3_IT	L6b	L6b	L6b	L2_3_IT
+AiE2531m	Sncg_Vip		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0637m	Sst	Sst	On-Target	strong	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE2455m	Oligo	Sncg_Vip	On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sst	Sncg_Vip	Lamp5	Sncg_Vip
+AiE0671m	L5_IT		On-Target	strong	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT	L5_IT
+AiE2536m	Sncg_Vip	Sncg_Vip	On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0410m	Oligo		On-Target	strong	Lamp5	Oligo	Lamp5	Oligo	OPC	Oligo	Oligo	Oligo
+AiE2128m	Endo_VLMC		On-Target	strong	Lamp5	Oligo	Lamp5	Oligo	OPC	Lamp5	Lamp5	Lamp5
+AiE0453m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0452m	L5_ET		On-Target	weak	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0664m	L6b		On-Target	weak	L6b	L6b	L6b	L6b	L6b	L6b	L6b	L6_CT
+AiE0386m	Astro		On-Target	weak	Lamp5	Oligo	Lamp5	Oligo	Astro	Lamp5	Lamp5	Astro
+AiE0665m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE2545m	L5_IT	L5_IT	On-Target	weak	L6_IT	L6_IT	L6_IT	L6_IT	L6_IT	L6_IT	L6_IT	L6_IT
+AiE0127m	Sst		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0759m	Sst	Pvalb	On-Target	weak	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE0815m	Pvalb		On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0725m	L6b		On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	Astro	Lamp5	Lamp5	Lamp5
+AiE0700m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0724m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2117m	Astro	OPC	On-Target	strong	Astro	Astro	OPC	OPC	Astro	Astro	Astro	Astro
+AiE2425m	Sst		On-Target	strong	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE2114m	L5_6_NP		On-Target	weak	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_6_NP	L5_IT
+AiE0471m	Sst		On-Target	strong	Lamp5	Micro_PVM	Micro_PVM	Micro_PVM	Sst	Sst	Sst	Micro_PVM
+AiE0488m	Sncg_Vip	Sncg_Vip	On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2122m	Astro		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Astro	Lamp5	Lamp5	Lamp5
+AiE0482m	Sncg_Vip	Sncg_Vip	On-Target	weak	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	OPC	Sncg_Vip	Lamp5	Sncg_Vip
+AiE0354m	Sncg_Vip		On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip
+AiE0396m	Oligo		On-Target	weak	Oligo	Oligo	Oligo	Oligo	OPC	OPC	Oligo	Oligo
+AiE2431m	Sncg_Vip		On-Target	strong	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip	Sncg_Vip
+AiE2370m	Lamp5		On-Target	weak	Lamp5	Lamp5	Lamp5	Lamp5	L5_ET	L5_ET	Lamp5	Lamp5
+AiE2359m	L6b		On-Target	weak	L6b	L6b	L6b	L6b	L6b	L6b	L6b	L6_IT
+AiE0486m	L6b		On-Target	strong	L6b	L6b	L6b	L6b	L6_IT	L6_IT	L6b	L6_IT
+AiE2362m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE2587m	L6b		On-Target	strong	L6b	L6b	L6b	L6b	L6b	L6b	L6b	L6b
+AiE0374m	Astro		On-Target	weak	Lamp5	Oligo	Lamp5	Oligo	OPC	Lamp5	Lamp5	Lamp5
+AiE2472m	Sst		On-Target	strong	Sst	Sst	Sst	Sst	Sst	Sst	Sst	Sst
+AiE2596m	L6_IT		On-Target	strong	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT	L2_3_IT
+AiE0340m	Sst		On-Target	weak	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	Pvalb	L5_ET	Pvalb
+AiE0461m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
+AiE0755m	Lamp5		On-Target	strong	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5	Lamp5
+AiE0674m	L5_ET		On-Target	strong	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET	L5_ET
